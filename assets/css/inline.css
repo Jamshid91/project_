@@ -72,3 +72,15 @@ body {
 .showInfo .show-btn img:last-child {
   display: block;
 }
+.showInfo .show-btn2 img:first-child {
+  display: none;
+}
+.showInfo .show-btn2 img:last-child {
+  display: block;
+}
+.text-shadow {
+  text-shadow: -1px 1px 0 #000,
+                         1px 1px 0 #000,
+                         1px -1px 0 #000,
+                         -1px -1px 0 #000;
+}

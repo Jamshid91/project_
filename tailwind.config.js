@@ -10,6 +10,7 @@ module.exports = {
         boxShadow: {
         '3xl': '0px 6px 12px 0px rgba(0,0,0,0.25)',
         '2xl': '0px 6px 4px 0px rgba(0,0,0,0.25)',
+        'xl': '0px 3px 4px 0px rgba(0,0,0,0.25)',
       },
         margin: {
             'navbar': '20rem' // 320px
